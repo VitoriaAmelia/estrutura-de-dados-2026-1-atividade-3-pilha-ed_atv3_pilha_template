@@ -110,7 +110,7 @@ public class App {
         int opcao;
 
         do {
-            System.out.println("\n=== MENU ===");
+            System.out.println("\n== MENU ==");
             System.out.println("1 - Empilhar");
             System.out.println("2 - Desempilhar");
             System.out.println("3 - Mostrar topo");
