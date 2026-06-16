@@ -77,10 +77,9 @@ public class App {
 
         System.out.println("Pilha: " + pilha);
 
-        int removido = pilha.pop();
+        pilha.pop();
 
-        System.out.println("Elemento removido: " + removido);
-        System.out.println("Pilha apos remocao: " + pilha);
+        System.out.println("Pilha apos a remocao do elemento: " + pilha);
     }
 
     private static void executarExercicio02() {
