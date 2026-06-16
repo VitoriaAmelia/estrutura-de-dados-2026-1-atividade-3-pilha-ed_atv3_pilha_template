@@ -220,7 +220,7 @@ public class App {
         } while (opcao != 5);
     }
 
-    // Métodos
+    // Metodos
 
     public static Stack<Integer> criarPilhaValoresFixos() {
         Stack<Integer> pilha = new Stack<>();
